@@ -4,10 +4,9 @@ Tests and implementations for common data structures. See the full list in the [
 
 Base repository for the [Core Data Structures](https://github.com/GuildCrafts/web-development-js/issues/128) goal.
 
-## Installation and Setup
 
-_Fill this out_
+Directed Graph: completed & passing tests
 
-## Usage and Examples
+Binary Search Tree: work in progress, did not finish.
 
-_...and this_
+Hash Table: now started
